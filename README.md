@@ -1,7 +1,8 @@
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yonamab&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=yonamab%27s%20Contribution%20Graph" alt="Contribution graph" />
+<a href="https://github.com/yonamab">
+  <img src="https://streak-stats.demolab.com/?user=yonamab&background=135%2C1a1b27%2C2d1f4e&ring=bb9af7&fire=ff9e64&currStreakNum=7dcfff&currStreakLabel=bb9af7&sideNums=c0caf5&sideLabels=7aa2f7&dates=565f89&stroke=3b4261&border_radius=16&date_format=j%20M%5B%20Y%5D&short_numbers=true&card_width=560&card_height=210" alt="yonamab's GitHub streak" />
+</a>
 
 </div>
 
